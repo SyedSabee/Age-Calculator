@@ -28,9 +28,9 @@ https://github.com/SyedSabee/Age-Calculator/assets/145167243/43f3d48f-bd4a-4bfd-
 
 ## Usage
 
-  1. `Enter Current Date`: Input the current date in the "Current Date" field.
-  2. `Enter Date of Birth`: Provide your date of birth in the "Date Of Birth" field.
-  3. `Calculate Age`: Click the "Calculate Age" button to view your age in years, months, and days.
+  1. **Enter Current Date**: Input the current date in the "Current Date" field.
+  2. **Enter Date of Birth**: Provide your date of birth in the "Date Of Birth" field.
+  3. **Calculate Age**: Click the "Calculate Age" button to view your age in years, months, and days.
 
 ## Website-Link
 
